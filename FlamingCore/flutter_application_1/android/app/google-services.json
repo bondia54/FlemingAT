@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "258492871250",
+    "firebase_url": "https://flemingcore-53272-default-rtdb.firebaseio.com",
+    "project_id": "flemingcore-53272",
+    "storage_bucket": "flemingcore-53272.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258492871250:android:2f96026b20459beb14258b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNacAmTqS-AROGo7MXM4XNtDvJPqdfk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
